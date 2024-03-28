@@ -1,0 +1,20 @@
+{
+"Logs":{
+  "NotificationOnlineBot":"CANAL_DE_AVISO_PRENDIDO",
+  "JoinServer":"CANAL_DE_AVISO_ENTRADA",
+  "LeaverServer":"CANAL_DE_AVISO_SALIDA",
+  "MdNotification": "CANAL_DE_MD"
+},
+  
+"Bot_Info":{
+  "token": "TOKEN",
+  "status": "online",
+  "name": "📡tag for help | 🛎️Prefix !",
+  "type": "WATCHING",
+  "url": "https://www.twitch.tv/yosoybyproxx",
+  "prefix": "!",
+  "DiscordInvite": "https://dsc.gg/hardling",
+  "Invite":"https://dsc.gg/hardling-essential",
+  "RankOwner": "OWNER__ID"
+  }
+}
